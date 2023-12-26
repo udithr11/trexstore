@@ -6,7 +6,7 @@ const Header = () => {
     <div>
         <h1 className=" bg-orange-200 w-72 h-16 px-12 py-3">TeeRex Store</h1>
     </div>
-    <div className="bg-slate-300 ml-auto w-60">
+    <div className="bg-slate-300 ml-auto w-80  ">
         <Cart/>
     </div>
   </div>;
